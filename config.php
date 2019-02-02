@@ -16,7 +16,7 @@ return [
     'services' => [
         'analytics' => 'UA-XXXXX-Y',
         'disqus' => 'artisanstatic',
-        'cloudinary' => 'artisanstatic',
+        'cloudinary' => 'dqhwmrt6x',
         'jumprock' => 'artisanstatic',
     ],
     'collections' => [
