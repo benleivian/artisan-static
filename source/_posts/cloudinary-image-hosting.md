@@ -1,10 +1,12 @@
 ---
-title: '05 - Cloudinary Image Hosting'
-date: 2018-08-31
-image: photos.jpg
+title: 05 - Cloudinary Image Hosting
+date: 2018-08-31T00:00:00.000Z
+image: /images/hero-bg-pantry.jpg
 comments: false
 ---
 Register on [Cloudinary](https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/qq2slabgpy590znlop4j).
+
+![](/images/hero-bg-closet-2.jpg)
 
 Go to `config.php` and add your **cloud name** under the `services` key.
 
